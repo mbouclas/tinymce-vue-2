@@ -1,0 +1,17 @@
+{
+  "name": "tinymce-vue-2",
+  "version": "0.0.2",
+  "description": "A vue 2 component for TinyMCE",
+  "keywords": [
+    "vue 2",
+    "vue component",
+    "tinymce"
+  ],
+  "author": "Michael Bouclas <mbouclas@gmail.com> (http://net-tomorrow.com/)",
+  "license": "MIT",
+  "homepage": "https://github.com/mbouclas/tinymce-vue-2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbouclas/tinymce-vue-2"
+  }
+}
