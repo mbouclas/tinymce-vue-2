@@ -39,6 +39,8 @@ export default {
       editor.on('Change', (e) => {
         this.$emit('input', editor.getContent());
       });
+      
+      editor.setContent(this.value);
     },
     ...this.otherProps
   })
