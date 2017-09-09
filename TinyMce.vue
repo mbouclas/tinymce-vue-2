@@ -25,8 +25,13 @@ export default {
       otherProps: {
         default: ''
       },
+      baseURL: {
+        type: String,
+        default: ''
+      },
   },
   mounted () {
+  tinymce.baseURL = this.baseURL;
   tinymce.init({
     selector: `#${this.id}`,
     toolbar : this.toolbar,
