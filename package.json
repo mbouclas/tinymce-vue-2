@@ -1,6 +1,6 @@
 {
   "name": "tinymce-vue-2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A vue 2 component for TinyMCE",
   "keywords": [
     "vue 2",
